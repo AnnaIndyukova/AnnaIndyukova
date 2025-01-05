@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+With over 10 years of experience in software development within the fintech and accounting sectors (utilizing technologies such as 1C and PL/SQL), I have successfully transitioned to web development. I am now focused on creating full-stack applications, using React and TypeScript for the frontend, and Node.js, Express, and MongoDB for the backend.
+
 <!--
 **AnnaIndyukova/AnnaIndyukova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
